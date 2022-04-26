@@ -1,0 +1,10 @@
+Name: Pedro; Number: 3232323232; E-mail: pedr@email.com; 
+Name: Luan; Number: 323323232; E-mail: luans@email.edu; 
+Name: Lucas; Number: 322212321; E-mail: lcse@email.br; 
+Name: Liz; Number: 1232123212; E-mail: liz@email.com; 
+Name: luara; Number: 3232321231; E-mail: luara@email.com; 
+Name: caio; Number: 212321232212; E-mail: caio@edu.br; 
+Name: Zeca; Number: 2323232323; E-mail: zeca@email.com; 
+Name: Matheus; Number: 3432324244; E-mail: matheus@edu.com; 
+Name: Julia; Number: 32988888888; E-mail: julia@edu.br; 
+Name: Arthur; Number: 23222122121; E-mail: arthur@email.com; 
